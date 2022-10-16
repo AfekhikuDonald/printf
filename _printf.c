@@ -7,6 +7,7 @@
 * @s: input string
 * Return: lenght of the string
 */
+
 int _strlen(const char *s)
 {
 	int i;
