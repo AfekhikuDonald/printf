@@ -18,7 +18,6 @@ int _printf(const char *format, ...)
 		{'i', _print_int},
 		{'d', _print_int},
 		{'%', _print_mod},
-		{'R', *rot13},
 		{'\0', NULL}
 	};
 	va_start(lst, format);
