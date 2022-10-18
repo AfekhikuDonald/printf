@@ -42,6 +42,7 @@ int _print_mod(va_list ls);
 int _print_string(va_list ls);
 
 int _print_int(va_list ls);
+int *rot13(va_list ls);
 
 
 
