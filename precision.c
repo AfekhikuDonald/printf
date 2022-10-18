@@ -6,7 +6,7 @@
  * @params: the parameters struct
  *
  * @ap: the argument pointer
- * 
+ *
  * Return: new pointer
 */
 
