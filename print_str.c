@@ -15,6 +15,8 @@ int print_str(va_list arguments, char *buf, unsigned int ibuf)
 
 	str = va_arg(arguments, char *);
 
+	i = 0;
+
 	if (str == NULL)
 	{
 		for (i = 0; nill[i]; i++)
